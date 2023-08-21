@@ -9,7 +9,7 @@
 |         | ICCV 2021  | GLoRIA |    |[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.pdf) [[code]](https://github.com/marshuang80/gloria) [note] | 
 |         | MICCAI 2022 | BFSPR |    |[[paper]](https://arxiv.org/pdf/2205.07139.pdf) [code][note] | 
 |         | MICCAI 2022 | M3AE |    |[[paper]](https://arxiv.org/pdf/2209.07098.pdf ) [[code]](https://github.com/zhjohnchan/M3AE) [note] | 
-|         | ACM MM 2022| Align, Reason & Learn  | |[[paper]](https://arxiv.org/pdf/2209.07118.pdf) [[code]]( https://github.com/zhjohnchan/ARL) [note] | 
+|         | ACM MM 2022| ARL  | |[[paper]](https://arxiv.org/pdf/2209.07118.pdf) [[code]]( https://github.com/zhjohnchan/ARL) [note] | 
 |         | EMNLP2022| MedCLIP |  |[[paper]](https://arxiv.org/pdf/2210.10163.pdf) [[code]](https://github.com/RyanWangZf/MedCLIP) [note] | 
 |         | ECCV 2022| BioViL  |  |[[paper]](https://arxiv.org/pdf/2204.09817.pdf) [code][note] | 
 |         | NIPS 2022| MGCA  |   |[[paper]](https://arxiv.org/pdf/2210.06044.pdf) [[code]](https://github.com/HKU-MedAI/MGCA) [note] | 
