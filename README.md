@@ -1,6 +1,10 @@
 # awesome-medical-vision-and-language-pretraining
-### The collection of medical VLP papars
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![](https://img.shields.io/github/last-commit/Liqq1/awesome-medical-vision-and-language-pretraining?color=green)
+![GitHub stars](https://img.shields.io/github/stars/Liqq1/awesome-medical-vision-and-language-pretraining?color=blue)
 
+
+### The collection of medical VLP papars
 
 
 || Venue | Name | Introduction                                              | Link                 | 
