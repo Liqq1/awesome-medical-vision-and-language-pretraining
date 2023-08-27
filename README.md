@@ -1,7 +1,7 @@
 # awesome-medical-vision-and-language-pretraining
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![](https://img.shields.io/github/last-commit/Liqq1/awesome-medical-vision-and-language-pretraining?color=green)
-![](https://visitor-badge.glitch.me/badge?page_id=Liqq1/awesome-medical-vision-and-language-pretraining)
+<a href="https://github.com/Liqq1"><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Liqq1" align="bottom"/></a>
 ![GitHub stars](https://img.shields.io/github/stars/Liqq1/awesome-medical-vision-and-language-pretraining?color=blue)
 
 
