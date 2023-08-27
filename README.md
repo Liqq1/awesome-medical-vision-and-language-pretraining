@@ -1,7 +1,7 @@
 # awesome-medical-vision-and-language-pretraining
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![](https://img.shields.io/github/last-commit/Liqq1/awesome-medical-vision-and-language-pretraining?color=green)
-<a href="https://github.com/Liqq1/awesome-medical-vision-and-language-pretraining"><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Liqq1/awesome-medical-vision-and-language-pretrainzing"/></a>
+<a href="https://github.com/Liqq1/awesome-medical-vision-and-language-pretraining"><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Liqq1/awesome-medical-vision-and-language-pretrainzing"  align="bottom"/></a>
 ![GitHub stars](https://img.shields.io/github/stars/Liqq1/awesome-medical-vision-and-language-pretraining?color=orange)
 
 ### The collection of medical VLP papars
