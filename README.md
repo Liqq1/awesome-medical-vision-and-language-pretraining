@@ -20,7 +20,7 @@
 |         | NIPS 2022| [MGCA](https://arxiv.org/pdf/2210.06044.pdf)  |  多粒度：image-report, patch-token, prototype|[[code](https://github.com/HKU-MedAI/MGCA)] [note] | 
 |         |ICLR 2023| [MRM](https://openreview.net/pdf?id=w-x7U26GM7j) |  |[code] [note] | 
 |         |CVPR 2023| [BioViL-T](https://arxiv.org/pdf/2301.04558.pdf)|  |[code] [note] | 
-|         |MICCAI 2023| [CXR-CLIP]((https://arxiv.org/pdf/2310.13292.pdf)) |  |[[code](https://github.com/kakaobrain/cxr-clip)] [note] | 
+|         |MICCAI 2023| [CXR-CLIP](https://arxiv.org/pdf/2310.13292.pdf) |  |[[code](https://github.com/kakaobrain/cxr-clip)] [note] | 
 |         |MICCAI 2023| [M-FLAG](https://arxiv.org/pdf/2307.07246.pdf) |  |[[code](https://github.com/cheliu-computation/M-FLAG-MICCAI2023)] [note] | 
 |         |MICCAI 2023| [KoBo](https://arxiv.org/pdf/2307.08347.pdf) |  |[[code](https://github.com/ChenXiaoFei-CS/KoBo)] [note] | 
 |         |MICCAI 2023| [PMC-CLIP](https://aps.arxiv.org/pdf/2303.07240.pdf) |  |[[code](https://github.com/WeixiongLin/PMC-CLIP)] [note] | 
