@@ -18,7 +18,7 @@
 |         | ECCV 2022| [BioViL](https://arxiv.org/pdf/2204.09817.pdf) |  | [code] [note] | 
 |         | ECCV 2022| [LoVT](https://arxiv.org/pdf/2112.02889.pdf)  |  |[code] [note] |
 |         | NIPS 2022| [MGCA](https://arxiv.org/pdf/2210.06044.pdf)  |  多粒度：image-report, patch-token, prototype|[[code](https://github.com/HKU-MedAI/MGCA)] [note] | 
-|         |ICLR 2023| [MRM](https://openreview.net/pdf?id=w-x7U26GM7j) |  |[code] [note] | 
+|         |ICLR 2023| [MRM](https://openreview.net/pdf?id=w-x7U26GM7j) | Masked report restoration + Masked HR image restoration |[code] [note] | 
 |         |CVPR 2023| [BioViL-T](https://arxiv.org/pdf/2301.04558.pdf)|  |[code] [note] | 
 |         |MICCAI 2023| [CXR-CLIP](https://arxiv.org/pdf/2310.13292.pdf) |  |[[code](https://github.com/kakaobrain/cxr-clip)] [note] | 
 |         |MICCAI 2023| [M-FLAG](https://arxiv.org/pdf/2307.07246.pdf) |  |[[code](https://github.com/cheliu-computation/M-FLAG-MICCAI2023)] [note] | 
@@ -30,6 +30,10 @@
 |         |ICCV 2023|[PRIOR](https://arxiv.org/pdf/2307.12577.pdf)|  |[[code](https://github.com/QtacierP/PRIOR)] [note] | 
 |         |Nature Com 2023|[KAD](https://arxiv.org/pdf/2302.14042.pdf)|  | [[code](https://github.com/xiaoman-zhang/KAD)] [note] | 
 |         |arxiv 2023| [MOTOR](https://arxiv.org/pdf/2304.14204.pdf) |  |[[code](https://github.com/chenzcv7/MOTOR)] [note] | 
+|         |arxiv 2024| [ECAMP](https://arxiv.org/pdf/2312.13316.pdf) |  |[[code](https://github.com/ToniChopp/ECAMP)] [note] | 
+|         |arxiv 2024| [MeDSLIP](https://arxiv.org/pdf/2403.10635.pdf) |  |[code]] [note] | 
+|         |CVPR 2024| [CARZero](https://arxiv.org/pdf/2402.17417.pdf) |  |[[code](https://github.com/laihaoran/CARZero)] [note] | 
+|         |CVPR 2024| [MAVL](https://github.com/HieuPhan33/MAVL) |exploits prior knowledge about pathological visual|[[code](https://arxiv.org/pdf/2403.07636.pdf)] [note] | 
 
 
 
