@@ -31,7 +31,7 @@
 |         |Nature Com 2023|[KAD](https://arxiv.org/pdf/2302.14042.pdf)|  | [[code](https://github.com/xiaoman-zhang/KAD)] [note] | 
 |         |arxiv 2023| [MOTOR](https://arxiv.org/pdf/2304.14204.pdf) |  |[[code](https://github.com/chenzcv7/MOTOR)] [note] | 
 |         |arxiv 2024| [ECAMP](https://arxiv.org/pdf/2312.13316.pdf) |  |[[code](https://github.com/ToniChopp/ECAMP)] [note] | 
-|         |arxiv 2024| [MeDSLIP](https://arxiv.org/pdf/2403.10635.pdf) |  |[code]] [note] | 
+|         |arxiv 2024| [MeDSLIP](https://arxiv.org/pdf/2403.10635.pdf) |  |[code] [note] | 
 |         |CVPR 2024| [CARZero](https://arxiv.org/pdf/2402.17417.pdf) |  |[[code](https://github.com/laihaoran/CARZero)] [note] | 
 |         |CVPR 2024| [MAVL](https://github.com/HieuPhan33/MAVL) |exploits prior knowledge about pathological visual|[[code](https://arxiv.org/pdf/2403.07636.pdf)] [note] | 
 
