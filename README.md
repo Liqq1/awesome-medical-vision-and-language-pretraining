@@ -4,36 +4,40 @@
 <a href="https://github.com/Liqq1/awesome-medical-vision-and-language-pretraining"><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Liqq1/awesome-medical-vision-and-language-pretrainzing"  align="bottom"/></a>
 ![GitHub stars](https://img.shields.io/github/stars/Liqq1/awesome-medical-vision-and-language-pretraining?color=orange)
 
-### The collection of medical VLP papars
-
-
-|| Venue | Name | Introduction                                              | Link                 | 
-|---| ------ | ---- | ------------------------------------------------------------ | -------------------- | 
-| ✅      | PMLR 22 (arxiv 20)| [ConVIRT](https://arxiv.org/pdf/2010.00747.pdf)| 先于CLIP提出的Med-CLIP |[[code](https://github.com/edreisMD/ConVIRT-pytorch)] [[note](https://zhuanlan.zhihu.com/p/581793182)] | 
-|         | ICCV 2021  | [GLoRIA](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.pdf) |    |[[code](https://github.com/marshuang80/gloria)] [note] | 
-|         | MICCAI 2022 | [BFSPR](https://arxiv.org/pdf/2205.07139.pdf) |    |[code] [note] | 
-|         | MICCAI 2022 | [M3AE](https://arxiv.org/pdf/2209.07098.pdf) |    |[[code](https://github.com/zhjohnchan/M3AE)] [note] | 
-|         | ACM MM 2022| [ARL](https://arxiv.org/pdf/2209.07118.pdf) | |[[code]( https://github.com/zhjohnchan/ARL)] [note] | 
-|         | EMNLP2022| [MedCLIP](https://arxiv.org/pdf/2210.10163.pdf) |  |[[code](https://github.com/RyanWangZf/MedCLIP)] [note] | 
-|         | ECCV 2022| [BioViL](https://arxiv.org/pdf/2204.09817.pdf) |  | [code] [note] | 
-|         | ECCV 2022| [LoVT](https://arxiv.org/pdf/2112.02889.pdf)  |  |[code] [note] |
-|         | NIPS 2022| [MGCA](https://arxiv.org/pdf/2210.06044.pdf)  |  多粒度：image-report, patch-token, prototype|[[code](https://github.com/HKU-MedAI/MGCA)] [note] | 
-|         |ICLR 2023| [MRM](https://openreview.net/pdf?id=w-x7U26GM7j) | Masked report restoration + Masked HR image restoration |[code] [note] | 
-|         |CVPR 2023| [BioViL-T](https://arxiv.org/pdf/2301.04558.pdf)|  |[code] [note] | 
-|         |MICCAI 2023| [CXR-CLIP](https://arxiv.org/pdf/2310.13292.pdf) |  |[[code](https://github.com/kakaobrain/cxr-clip)] [note] | 
-|         |MICCAI 2023| [M-FLAG](https://arxiv.org/pdf/2307.07246.pdf) |  |[[code](https://github.com/cheliu-computation/M-FLAG-MICCAI2023)] [note] | 
-|         |MICCAI 2023| [KoBo](https://arxiv.org/pdf/2307.08347.pdf) |  |[[code](https://github.com/ChenXiaoFei-CS/KoBo)] [note] | 
-|         |MICCAI 2023| [PMC-CLIP](https://aps.arxiv.org/pdf/2303.07240.pdf) |  |[[code](https://github.com/WeixiongLin/PMC-CLIP)] [note] | 
-|         |MICCAI-ws 23| [K-Diag](https://arxiv.org/pdf/2302.11557.pdf) |  |[[code](https://github.com/MediaBrain-SJTU/K-Diag)] [note] | 
-|         |ICCV 2023|[MedKLIP](https://arxiv.org/pdf/2301.02228.pdf)|  |[[code](https://github.com/MediaBrain-SJTU/MedKLIP)] [note] | 
-|         |ICCV 2023|[PTUnifier](https://arxiv.org/pdf/2302.08958.pdf)|  |[[code](https://github.com/zhjohnchan/PTUnifier)] [note] | 
-|         |ICCV 2023|[PRIOR](https://arxiv.org/pdf/2307.12577.pdf)|  |[[code](https://github.com/QtacierP/PRIOR)] [note] | 
-|         |Nature Com 2023|[KAD](https://arxiv.org/pdf/2302.14042.pdf)|  | [[code](https://github.com/xiaoman-zhang/KAD)] [note] | 
-|         |arxiv 2023| [MOTOR](https://arxiv.org/pdf/2304.14204.pdf) |  |[[code](https://github.com/chenzcv7/MOTOR)] [note] | 
-|         |arxiv 2024| [ECAMP](https://arxiv.org/pdf/2312.13316.pdf) |  |[[code](https://github.com/ToniChopp/ECAMP)] [note] | 
-|         |arxiv 2024| [MeDSLIP](https://arxiv.org/pdf/2403.10635.pdf) |  |[code] [note] | 
-|         |CVPR 2024| [CARZero](https://arxiv.org/pdf/2402.17417.pdf) |  |[[code](https://github.com/laihaoran/CARZero)] [note] | 
-|         |CVPR 2024| [MAVL](https://github.com/HieuPhan33/MAVL) |exploits prior knowledge about pathological visual|[[code](https://arxiv.org/pdf/2403.07636.pdf)] [note] | 
+### The collection of medical VLP papars (Chest X-ray)
+✨ We will promptly update the relevant papers. Please feel free to contact me to add links or to discuss this area with me.
+### 2021
+- [**PMLR 2022(arxiv 2020)**] [**ConViRT**] Contrastive Learning of Medical Visual Representations from Paired Images and Text [[pdf]](https://arxiv.org/pdf/2010.00747.pdf) [[code]](https://github.com/edreisMD/ConVIRT-pytorch)
+- [**ICCV 2021**] [**GLoRIA**] AMultimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.pdf) [[code]](https://github.com/marshuang80/gloria)
+### 2022
+ - [**MICCAI 2022**] [**BFSPR**] Breaking with Fixed Set Pathology Recognition through Report-Guided Contrastive Training [[pdf]](https://arxiv.org/pdf/2205.07139.pdf) 
+ - [**MICCAI 2022**] [**M3AE**] Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training [[pdf]](https://arxiv.org/pdf/2209.07098.pdf) [[code]](https://github.com/zhjohnchan/M3AE)
+ - [**ACM MM 2022**] [**ARL**] Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge [[pdf]](https://arxiv.org/pdf/2209.07118.pdf) [[code]](https://github.com/zhjohnchan/ARL)
+ - [**EMNLP 2022**] [**MedCLIP**] Contrastive Learning from Unpaired Medical Images and Text [[pdf]](https://arxiv.org/pdf/2210.10163.pdf) [[code]](https://github.com/RyanWangZf/MedCLIP)
+ - [**ECCV 2022**] [**BioViL**] Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing [[pdf]](https://arxiv.org/pdf/2204.09817.pdf) [[code]](https://hi-ml.readthedocs.io/en/latest/multimodal.html)
+ - [**ECCV 2022**] [**LoVT**] Joint Learning of Localized Representations from Medical Images and Reports [[pdf]](https://arxiv.org/pdf/2112.02889.pdf)
+ - [**NIPS 2022**] [**MGCA**] Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2210.06044.pdf) [[code]](https://github.com/HKU-MedAI/MGCA)
+### 2023
+ - [**ICLR 2023**] [**MRM**] Advancing Radiograph Representation Learning with Masked Record Modeling [[pdf]](https://openreview.net/pdf?id=w-x7U26GM7j) [[code]](https://github.com/RL4M/MRM-pytorch)
+ - [**CVPR 2023**] [**BioViL-T**] Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing [[pdf]](https://arxiv.org/pdf/2301.04558.pdf) [[code]](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)
+ - [**MICCAI 2023**] [**CXR-CLIP**] Toward Large Scale Chest X-ray Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2310.13292.pdf) [[code]](https://github.com/kakaobrain/cxr-clip)
+ - [**MICCAI 2023**] [**M-FLAG**] M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization [[pdf]](https://arxiv.org/pdf/2307.08347.pdf) [[code]](https://github.com/cheliu-computation/M-FLAG-MICCAI2023)
+ - [**MICCAI 2023**] [**KoBo**] Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training [[pdf]](https://arxiv.org/pdf/2307.07246) [[code]](https://github.com/ChenXiaoFei-CS/KoBo)
+ - [**MICCAI-ws 2023**] [**K-Diag**] K-Diag: Knowledge-enhanced Disease Diagnosis in Radiographic Imaging [[pdf]](https://arxiv.org/pdf/2302.11557.pdf) [[code]](https://github.com/MediaBrain-SJTU/K-Diag)
+ - [**ICCV 2023**] [**MedKLIP**] MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training in Radiology [[pdf]](https://arxiv.org/pdf/2301.02228.pdf) [[code]](https://github.com/MediaBrain-SJTU/MedKLIP)
+ - [**ICCV 2023**] [**PTUnifier**] Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts [[pdf]](https://arxiv.org/pdf/2302.08958.pdf) [[code]](https://github.com/zhjohnchan/PTUnifier)
+ - [**ICCV 2023**] [**PRIOR**] PRIOR: Prototype Representation Joint Learning from Medical Images and Reports [[pdf]](https://arxiv.org/pdf/2307.12577.pdf) [[code]](https://github.com/QtacierP/PRIOR)
+ - [**Nature Com 2023**] [**KAD**]  Knowledge-enhanced Visual-Language Pre-training on Chest Radiology Images [[pdf]](https://arxiv.org/pdf/2302.14042.pdf) [[code]](https://github.com/xiaoman-zhang/KAD)
+ - [**MIA 2023**] [**SAT**] Improving Medical Vision-Language Contrastive Pretraining With Semantics-Aware Triage [[pdf]](https://ieeexplore.ieee.org/document/10182304) [[code]](https://github.com/liubo105/SAT)
+ - [**arxiv 2023**] [**MOTOR**] Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining [[pdf]](https://arxiv.org/pdf/2304.14204.pdf) [[code]](https://github.com/chenzcv7/MOTOR)
+### 2024
+ - [**arxiv 2024**] [**ECAMP**] ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training[[pdf]](https://arxiv.org/pdf/2312.13316.pdf) [[code]](https://github.com/ToniChopp/ECAMP)
+ - [**arxiv 2024**] [**MeDSLIP**] MeDSLIP: Medical Dual-Stream Language-Image Pre-training for Fine-grained Alignment [[pdf]](https://arxiv.org/pdf/2403.10635.pdf)
+ - [**CVPR 2024**] [**CARZeroP**] CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification [[pdf]](https://arxiv.org/pdf/2402.17417.pdf) [[code]](https://github.com/laihaoran/CARZero)
+ - [**CVPR 2024**] [**MAVL**] DecomposingDiseaseDescriptionsforEnhancedPathologyDetection:A Multi-AspectVision-LanguagePre-trainingFramework [[pdf]](https://arxiv.org/pdf/2403.07636.pdf) [[code]](https://github.com/HieuPhan33/MAVL)
+ - [**CVPR 2024**] [**MLIP**] MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning [[pdf]](https://arxiv.org/pdf/2402.02045)
+ - [**MICCAI 2024**] [**ASG**]  Anatomical Structure-Guided Medical Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2403.09294)[[code]]
+ 
 
 
 
